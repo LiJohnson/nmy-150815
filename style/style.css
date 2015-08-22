@@ -1,0 +1,7 @@
+.item-list img{
+	 margin: 0 auto;
+	 display: block;
+}
+.item-list a:hover{
+	text-decoration:none;
+}
